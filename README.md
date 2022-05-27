@@ -67,11 +67,14 @@ for better understanding.
 # Result and Discussion
 
 Stock Market visualization using LSTM model
+
 ![image](https://user-images.githubusercontent.com/69135317/170762544-575fdc2f-dc13-4632-98d5-f32154ae83ff.png)
  
 
 Stock Market visualization using Reinforcement Learning
+
 ![image](https://user-images.githubusercontent.com/69135317/170762459-0d28f807-5770-4b83-abb0-6bb50099c5c0.png)
 
 Stock Market visualization using Fibonacci Retracement
+
 ![image](https://user-images.githubusercontent.com/69135317/170762394-bce5aed1-7b3c-4a15-92c0-729db1f06196.png)
